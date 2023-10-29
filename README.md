@@ -24,7 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=MADAM-MASK-OFFICIA&style=flat-square">
 </div>
 
-><h1>𝙱𝙾𝚃 𝙸𝚂: DEVOLOPING<h1>
+><h1>𝙱𝙾𝚃 𝙸𝚂: DEVELOPING<h1>
 
 <div align="center">
 <a href="https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD_BOT"><img src="https://i.ibb.co/mNxf5vM/hzk6C.gif" alt="hzk6C" border="0"></a>
