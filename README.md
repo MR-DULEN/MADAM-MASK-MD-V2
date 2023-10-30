@@ -24,7 +24,9 @@
 <img src="https://komarev.com/ghpvc/?username=MADAM-MASK-OFFICIA&style=flat-square">
 </div>
 
- 𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐄𝐓𝐇𝐎𝐃𝐒 
+ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐄𝐓𝐇𝐎𝐃𝐒
+
+ <b>comming soon...</b>
 
 ><h1>𝙱𝙾𝚃 𝙸𝚂: DEVELOPING<h1>
 
