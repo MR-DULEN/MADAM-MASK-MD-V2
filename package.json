@@ -1,15 +1,15 @@
 {
-               "name": "secktor-md",
+               "name": "madam-mask-md",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by dulen.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name madam-mask",
+                "stop": "pm2 stop madam-mask"
                 },
-               "author": "SamPandey001",
+               "author": "dulen",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "git+https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD-V2.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD-V2/issues"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD-V2#readme"
                   }
