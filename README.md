@@ -24,10 +24,14 @@
 <img src="https://komarev.com/ghpvc/?username=MADAM-MASK-OFFICIA&style=flat-square">
 </div>
 
+```SCAN-QR```
+
+1. ***Get [SESSION-ID](https://rowdy-baby-qr-94d785f490a0.herokuapp.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+
  # 𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐄𝐓𝐇𝐎𝐃𝐒
 
 - YOU CAN DEPLOY BOT ON HEROKU.<br></br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+4.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD-V2)***
 
 
 <br></br>
