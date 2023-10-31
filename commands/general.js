@@ -200,7 +200,7 @@ cmd({
 async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
-let str="*All available themes in Secktor*"
+let str=""
 str+=``
 return citel.reply(str)
     
