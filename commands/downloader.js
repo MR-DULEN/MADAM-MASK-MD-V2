@@ -301,7 +301,7 @@ cmd({
             if (infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ Video file too big!`);
             let titleYt = infoYt.videoDetails.title;
             let randomName = getRandom(".mp3");
-            citel.reply(`• MADAM MASK SONG DOWNLODER •\n💡 ꜱᴇʀᴄʜ ʀᴇꜱᴜʟᴛ\n╔────────•❖•────────•\n│\n│• *📋ᴛɪᴛʟᴇ* - ${anu.title}\n│\n│• *⏱️ ᴅᴜʀᴀᴛɪᴏɴ* - ${anu.timestamp}\n👀 *Viewers:* ${anu.views}\n\n🖇️ *Url:* ${anu.url}\n\n⬆️ *Uploaded:* ${anu.ago}\n\n🎗️ *Author:* ${anu.author.name}`)
+            citel.reply(`• MADAM MASK SONG DOWNLODER •\n💡 ꜱᴇʀᴄʜ ʀᴇꜱᴜʟᴛ\n╔─────────•❖•─────────•\n│\n│• *📋ᴛɪᴛʟᴇ* -  ${anu.title}\n│\n│• *⏱️ ᴅᴜʀᴀᴛɪᴏɴ* -  ${anu.timestamp}\n│\n│• *👁️ ᴠɪᴇᴡᴇʀꜱ* -  ${anu.views}\n│\n│• *📥 ᴜᴘʟᴏᴅᴇᴅ* -  ${anu.url}\n│\n│• *👤 ᴀᴜᴛʜᴏʀ* -  ${anu.ago}\n│\n│• *🔗 ᴜʀʟ* -  ${anu.author.name}\n│\n╚─────────•❖•─────────•\n\n*ᴍᴀᴅᴀᴍ ᴍᴀꜱᴋ ᴍᴅ*\n*👨‍💻 ʙʏ • ᴍʀ ᴅᴜʟᴇɴ*`)
             const stream = ytdl(anu.url, {
                     filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
                 })
