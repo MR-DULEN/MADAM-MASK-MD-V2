@@ -130,8 +130,8 @@ cmd({
 async(Void, citel, text) => {
     if(!text && !citel.quoted) return await citel.reply(`*Please Give Me Text. Example: _${prefix}trt en Who are you_*`);
     const translatte = require("translatte");
-    let lang = text ? text.split(" ")[0].toLowerCase() : 'en';
-    if (!citel.quoted)  { text = text.replace( lang , "si");  }
+    let lang = text ? text.split(" ")[0].toLowerCase() : `en`;
+    if (!citel.quoted)  { text = text.replace( lang , "");  }
     else { text = citel.quoted.text; }
     var whole = await translatte(text, { from:"auto",  to: lang , });
     if ("text" in whole) { return await citel.reply('*Translated text:*\n'+whole.text); }
@@ -255,7 +255,7 @@ cmd({
 *Uptime -* ${runtime(process.uptime())}
 *Branch -* _${Config.BRANCH}
 
-```Type ${prefix}menu for my command list 📂```.
+*Type ${prefix}menu for my command list 📂*.
 
 *•     ᴍαԃαᴍ ᴍαʂƙ ᴍᴅ     •*
 *ᴘᴏᴡᴇʀᴅ  ʙʏ  •  ᴍʀ - ᴅᴜʟᴇɴ*
