@@ -3,7 +3,7 @@ const ytdl = require('ytdl-secktor')
 const yts = require('secktor-pack')
 const fs = require('fs')
 var videotime = 60000 // 1000 min
-var dlsize = 250 // 250mb
+var dlsize = 2000 // 2000mb
 
 
 cmd({
