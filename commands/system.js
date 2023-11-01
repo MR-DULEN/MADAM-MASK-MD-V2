@@ -131,7 +131,7 @@ async(Void, citel, text) => {
     if(!text && !citel.quoted) return await citel.reply(`*Please Give Me Text. Example: _${prefix}trt en Who are you_*`);
     const translatte = require("translatte");
     let lang = text ? text.split(" ")[0].toLowerCase() : 'en';
-    if (!citel.quoted)  { text = text.replace( lang , "");  }
+    if (!citel.quoted)  { text = text.replace( lang , "si");  }
     else { text = citel.quoted.text; }
     var whole = await translatte(text, { from:"auto",  to: lang , });
     if ("text" in whole) { return await citel.reply('*Translated text:*\n'+whole.text); }
@@ -245,18 +245,20 @@ cmd({
         async(Void, citel, text, isAdmins) => {
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by dulen.*`
             const alivtxt = `
+*🧚‍♀️ MADAM MASK MD ONLINE NOW 🧚‍♀️*
+            
 *Hello, ${citel.pushName},*
-_This is  Madam-Mask-md_
 
-*Version:-* _0.0.1_
-*Developer:-* _Dulen_
-*Supporter:-* _MR-KALINDU_
-*Uptime:-* _${runtime(process.uptime())}_
-*Branch:-* _${Config.BRANCH}_
+*Version -* V2
+*Developer -* MR DULEN
+*Supporter -* MR-KALINDU
+*Uptime -* ${runtime(process.uptime())}
+*Branch -* _${Config.BRANCH}
 
-_Type ${prefix}menu for my command list._
+```Type ${prefix}menu for my command list 📂```.
 
-_Powered by Dulen & MR-KALINDU
+*•     ᴍαԃαᴍ ᴍαʂƙ ᴍᴅ     •*
+*ᴘᴏᴡᴇʀᴅ  ʙʏ  •  ᴍʀ - ᴅᴜʟᴇɴ*
 `;
             let aliveMessage = {
                 image: {
