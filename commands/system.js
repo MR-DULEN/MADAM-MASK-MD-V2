@@ -247,7 +247,7 @@ cmd({
             const alivtxt = `
 *🧚‍♀️ MADAM MASK MD ONLINE NOW 🧚‍♀️*
             
-*Hello, ${citel.pushName},*
+*Hello, ${citel.pushName}*
 
 *Version -* V2
 *Developer -* MR DULEN
@@ -255,7 +255,8 @@ cmd({
 *Uptime -* ${runtime(process.uptime())}
 *Branch -* _${Config.BRANCH}
 
-*Type ${prefix}menu for my command list 📂*.
+*Type ${prefix}menu for my command list 📂*...
+
 
 *•     ᴍαԃαᴍ ᴍαʂƙ ᴍᴅ     •*
 *ᴘᴏᴡᴇʀᴅ  ʙʏ  •  ᴍʀ - ᴅᴜʟᴇɴ*
