@@ -24,14 +24,15 @@
 <img src="https://komarev.com/ghpvc/?username=MADAM-MASK-OFFICIA&style=flat-square">
 </div>
 
-```SCAN-QR```
+ # 𝗦𝗖𝗔𝗡 𝗤𝗥
 
-1. ***Get [SESSION-ID](https://rowdy-baby-qr-94d785f490a0.herokuapp.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- QR CODE GENARATING METHOD 1. <br></br>
+<a href="https://rowdy-baby-qr-94d785f490a0.herokuapp.com/"><img src="https://i.ibb.co/k3W88k6/replicate-prediction-z4he5grcnoq7sqgih62axc4edy.png" width=90 height=90/> 
 
  # 𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐄𝐓𝐇𝐎𝐃𝐒
 
 - YOU CAN DEPLOY BOT ON HEROKU.<br></br>
-4.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD-V2)***
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 <br></br>
@@ -45,7 +46,9 @@
   <p><h1>🔥 𝔸𝔻𝕄𝕀ℕ ℙ𝔸ℕ𝔼𝕃 🔥</h1></p>
 </div>
 
+
 | <a href="/"><img src="https://i.ibb.co/tpMT9FW/image.png" width=150 height=150></a> | <a href="http://tiktok.com/@vip_duleya"><img src="https://i.ibb.co/CVyjBXp/e0e70b3f-e3de-4aee-97bd-14904fdd48c-1.jpg" width=150 height=150></a> | <img src="https://i.ibb.co/jhh4Xy6/image.png" width=150 height=150></a> |
 |---|---|---|
 | **[MADAM MASK](https://github.com/MADAM-MASK-OFFICIAL)**</br>  • 𝔹𝕆𝕋 •</br> | **[MR DULEN](https://github.com/DULENS-PROJECTS)**</br>• 𝔸𝔻𝕄𝕀ℕ •| **[MR KALINDU](https://github.com/MR-KALINDU)**</br>• ℂ𝕆 𝔸𝔻𝕄𝕀ℕ •
+
 
