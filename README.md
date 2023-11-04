@@ -28,7 +28,7 @@
 
 ```• QR CODE GENARATING METHOD 2```
 
-<b>• CUSTOME WEB APP QR CODE •</b> <br></br>
+<b>• CUSTOM WEB APP QR CODE •</b> <br></br>
 <a href="https://rowdy-baby-qr-94d785f490a0.herokuapp.com/"><img src="https://i.ibb.co/k3W88k6/replicate-prediction-z4he5grcnoq7sqgih62axc4edy.png" width=90 height=90/> 
 
 ```• QR CODE GENARATING METHOD 1```
