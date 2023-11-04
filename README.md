@@ -26,8 +26,18 @@
 
  # 𝗦𝗖𝗔𝗡 𝗤𝗥
 
-- QR CODE GENARATING METHOD 1. <br></br>
+```• QR CODE GENARATING METHOD 2```
+
+<b>• CUSTOME WEB APP QR CODE •</b> <br></br>
 <a href="https://rowdy-baby-qr-94d785f490a0.herokuapp.com/"><img src="https://i.ibb.co/k3W88k6/replicate-prediction-z4he5grcnoq7sqgih62axc4edy.png" width=90 height=90/> 
+
+```• QR CODE GENARATING METHOD 1```
+
+<b>• REPLIT QR CODE •</b> <br></br>
+<a href="https://replit.com/@madammaskmd/MADAM-MASK-SESSION-S2?v=1"><img src="https://i.ibb.co/k3W88k6/replicate-prediction-z4he5grcnoq7sqgih62axc4edy.png" width=90 height=90/> 
+
+
+
 
  # 𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐄𝐓𝐇𝐎𝐃𝐒
 
